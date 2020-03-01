@@ -4,7 +4,7 @@ public class Main {
 	
 	public static void main(String... args) {
 		
-		int epocas = 7;
+		int epocas = 6;
 		
 		float taxaAprendizagem = 0.1f;
 		
